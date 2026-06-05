@@ -16,9 +16,8 @@
 
 ## 在线演示 / Online Demo
 
-**访问地址 / Visit**: [https://your-username.github.io/spek-lossless-detector](https://your-username.github.io/spek-lossless-detector)
+**访问地址 / Visit**: [https://Zhou1019-1.github.io/spek-lossless-detector](https://your-username.github.io/spek-lossless-detector)
 
-> 替换 `your-username` 为你的 GitHub 用户名 / Replace `your-username` with your GitHub username
 
 ---
 
